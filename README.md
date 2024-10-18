@@ -13,7 +13,7 @@
 <p>To install the ScientificCalculator app, follow these steps:</p>
 
 <p> 1. Clone the Repository:</p>
-git clone https://github.com/yourusername/ScientificCalculator.git
+    https://github.com/Murugavl/ScientificCalculator.git
 
 <p> 2. Open in Android Studio:</p>
 <p> &emsp; * Launch Android Studio. <br>
